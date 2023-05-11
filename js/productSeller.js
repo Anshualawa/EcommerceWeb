@@ -24,7 +24,7 @@ function addCards(url) {
         console.log(data[1]);
         let combine = '';
         for (let i = 0; i < data.length; i++) {
-            combine += '<div class="card m-2" style="width: 18rem;"> ' +
+            combine += '<div class="card m-2 shadow" style="width: 18rem;"> ' +
             '<img src="'+data[i].image+'" class="card-img-top" alt="...">' +
             '<div class="card-body"><h5 class="card-title">' + data[i].title +
             '<h3 class="card-subtitle mb-2 text-dark"> Rs. '+ data[i].price+'/-</h3>'+
