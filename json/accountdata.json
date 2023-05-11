@@ -1,0 +1,1572 @@
+{
+    "results": [
+        {
+            "state_name": "KARNATAKA",
+            "city": "AFZALPUR",
+            "candidate_name": "M.Y.PATIL",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "ALAND",
+            "candidate_name": "BR PATIL",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "ANEKAL",
+            "candidate_name": "B. SHIVANNA",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "ARABHAVI",
+            "candidate_name": "BALACHANDRA LAXMANRAO JARKIHOLI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "ARAKALGUD",
+            "candidate_name": "A. MANJU",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "ARSIKERE",
+            "candidate_name": "K M SHIVALINGEGOWDA",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "ATHANI",
+            "candidate_name": "LAXMAN. SANGAPPA. SAVADI",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "AURAD (SC)",
+            "candidate_name": "PRABHU B CHAVAN",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "B.T.M LAYOUT",
+            "candidate_name": "RAMALINGA REDDY",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BABALESHWAR",
+            "candidate_name": "M B PATIL",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BADAMI",
+            "candidate_name": "B.B.CHIMMANAKATTI",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BAGALKOT",
+            "candidate_name": "VEERANNA CHARANTIMATH",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BAGEPALLI",
+            "candidate_name": "S.N. SUBBAREDDY",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BAILHONGAL",
+            "candidate_name": "DR. VISHWANATH I. PATIL",
+            "party_name": "IND",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BAINDUR",
+            "candidate_name": "K. GOPAL POOJARY",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BANGALORE SOUTH",
+            "candidate_name": "M KRISHNAPPA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BANGARAPET(SC)",
+            "candidate_name": "S.N. NARAYANASWAMY.",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BANTWAL",
+            "candidate_name": "B. RAMANATH RAI",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BASAVAKALYAN",
+            "candidate_name": "VIJAY SINGH",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BASAVANA BAGEVADI",
+            "candidate_name": "SHIVANAND PATIL",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BASAVANAGUDI",
+            "candidate_name": "RAVI SUBRAMANYA L.A.",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BELGAUM DAKSHIN",
+            "candidate_name": "ABHAY PATIL",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BELGAUM RURAL",
+            "candidate_name": "LAXMI R. HEBBALKAR",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BELGAUM UTTAR",
+            "candidate_name": "ASIF SAIT",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BELLARY (ST)",
+            "candidate_name": "B SREERAMULU",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BELLARY CITY",
+            "candidate_name": "GALI  LAKSHMI ARUNA",
+            "party_name": "KRPP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BELTHANGADY",
+            "candidate_name": "HARISH POONJA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BELUR",
+            "candidate_name": "H K SURESH",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BHADRAVATHI",
+            "candidate_name": "B.K. SANAGAMESHWARA",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BHALKI",
+            "candidate_name": "ESHWAR KHANDRE",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BHATKAL",
+            "candidate_name": "MANKAL VAIDYA",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BIDAR",
+            "candidate_name": "SURYAKANTH NAGAMARPALLI",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BIDAR SOUTH",
+            "candidate_name": "BANDEPPA KHASHEMPUR",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BIJAPUR CITY",
+            "candidate_name": "BASANAGOUDA R PATIL (YATNAL)",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BILGI",
+            "candidate_name": "MURAGESH NIRANI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BOMMANAHALLI",
+            "candidate_name": "SATHISH REDDY .M",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BYADGI",
+            "candidate_name": "BASAVARAJ NEELAPPA SHIVANNANAVAR",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "BYATARAYANAPURA",
+            "candidate_name": "KRISHNA BYREGOWDA",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "C.V. RAMANNNAGAR",
+            "candidate_name": "S. RAGHU",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "CHALLAKERE (ST)",
+            "candidate_name": "T. RAGHUMURTHY",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "CHAMARAJA",
+            "candidate_name": "K. HARISH GOWDA",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "CHAMARAJANAGAR",
+            "candidate_name": "V.SOMANNA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "CHAMRAJAPET",
+            "candidate_name": "ZAMEER AHMED KHAN",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "CHAMUNDESHWARI",
+            "candidate_name": "G. T. DEVEGOWDA",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "CHANNAGIRI",
+            "candidate_name": "MADAL MALLIKARJUNA",
+            "party_name": "IND",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "CHANNAPATNA",
+            "candidate_name": "C.P. YOGESHWARA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "CHICKPET",
+            "candidate_name": "UDAY B. GARUDACHAR",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "CHIKKABALLAPUR",
+            "candidate_name": "DR. K. SUDHAKAR",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "CHIKKAMAGALURU",
+            "candidate_name": "H. D. THAMMAIAH",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "CHIKKNAYAKANHALLI",
+            "candidate_name": "C B SURESH BAABU",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "CHIKKODI-SADALGA",
+            "candidate_name": "GANESH HUKKERI",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "CHINCHOLI (SC)",
+            "candidate_name": "SUBHASH V RATHOD",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "CHINTAMANI",
+            "candidate_name": "DR. M.C. SUDHAKAR",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "CHITRADURGA",
+            "candidate_name": "K.C.VEERENDRA PUPPY",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "CHITTAPUR (SC)",
+            "candidate_name": "PRIYANK KHARGE",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "DASARAHALLI",
+            "candidate_name": "S MUNIRAJU",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "DAVANAGERE NORTH",
+            "candidate_name": "S.S.MALLIKARJUN",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "DAVANAGERE SOUTH",
+            "candidate_name": "SHAMANUR SHIVASHANKARAPPA",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "DEVADURGA (ST)",
+            "candidate_name": "KAREMMA",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "DEVANAHALLI",
+            "candidate_name": "NISARGA NARAYANASWAMY L.N",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "DEVAR HIPPARGI",
+            "candidate_name": "RAJUGOWDA PATIL",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "DHARWAD",
+            "candidate_name": "VINAY KULKARNI",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "DODDABALLAPUR",
+            "candidate_name": "DHEERAJ MUNIRAJ",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "GADAG",
+            "candidate_name": "H K PATIL",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "GANDHINAGAR",
+            "candidate_name": "V NARAYANASWAMY",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "GANGAWATI",
+            "candidate_name": "G JANARDHAN REDDY",
+            "party_name": "KRPP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "GAURIBIDANUR",
+            "candidate_name": "N.H.SHIVASHANKARA REDDY",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "GOKAK",
+            "candidate_name": "JARKIHOLI RAMESH LAXMANRAO",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "GOVINDARAJANAGAR",
+            "candidate_name": "K. UMESH SHETTY",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "GUBBI",
+            "candidate_name": "S R SRINIVAS (VASU)",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "GUNDLUPET",
+            "candidate_name": "C.S. NIRANJAN KUMAR",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "GURMITKAL",
+            "candidate_name": "SHARANA GOWDA KANDAKUR",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HADAGALI",
+            "candidate_name": "PARAMESHWARA NAIK",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HAGARIBOMMANAHALLI (SC)",
+            "candidate_name": "BHEEMA NAIK",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HALIYALA",
+            "candidate_name": "R V DESHPANDE",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HANGAL",
+            "candidate_name": "SHIVARAJ SAJJANAR",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HANURU",
+            "candidate_name": "M.R. MANJUNATH",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HARAPANAHALLI",
+            "candidate_name": "G KARUNAKARA REDDY",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HARIHAR",
+            "candidate_name": "SRINIVASA N H (NANDIGAVI)",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HASSAN",
+            "candidate_name": "H. P. SWAROOP",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HAVERI (SC)",
+            "candidate_name": "GAVISIDDAPPA DYAMANNAVA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HEBBAL",
+            "candidate_name": "SURESHA B S",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HEGGADADEVANKOTE (ST)",
+            "candidate_name": "ANIL CHIKKAMADHU",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HIREKERUR",
+            "candidate_name": "U B BANAKAR",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HIRIYUR",
+            "candidate_name": "D.SUDHAKAR",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HOLALKERE (SC)",
+            "candidate_name": "DR JAYASIMHA\nLOKANATH",
+            "party_name": "IND",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HOLENARASIPUR",
+            "candidate_name": "H.D. REVANNA",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HONNALI",
+            "candidate_name": "SHANTHANA GOWDA.D.G.",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HOSADURGA",
+            "candidate_name": "S. LINGAMURTHY",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HOSAKOTE",
+            "candidate_name": "MTB NAGARAJU",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HUBLI-DHARWAD CENTRAL",
+            "candidate_name": "JAGADISH SHETTAR",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HUBLI-DHARWAD EAST (SC)",
+            "candidate_name": "ABBAYYA PRASAD",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HUBLI-DHARWAD WEST",
+            "candidate_name": "ARVIND BELLAD",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HUKKERI",
+            "candidate_name": "A.B.PATIL",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HUMNABAD",
+            "candidate_name": "RAJASHEKHAR PATIL",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HUNGUND",
+            "candidate_name": "DODDANAGOUDA G PATIL",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "HUNSUR",
+            "candidate_name": "G.D. HARISH GOWDA",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "INDI",
+            "candidate_name": "YASHAVANTARAYGOUD. VITTALAGOUD. PATIL",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "JAGALUR (ST)",
+            "candidate_name": "H.P.RAJESH",
+            "party_name": "IND",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "JAMKHANDI",
+            "candidate_name": "ANAND SIDDU NYAMAGOUDA",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "JAYANAGAR",
+            "candidate_name": "C K RAMAMURTHY",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "JEVARGI",
+            "candidate_name": "AJAY SINGH",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "K.R. PURA",
+            "candidate_name": "B. A. BASAVARAJA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KADUR",
+            "candidate_name": "ANAND. K.S",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KAGWAD",
+            "candidate_name": "BHARAMGOUDA  KAGE",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KALABURAGI DAKSHIN",
+            "candidate_name": "ALLAMPRABHU PATIL",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KALABURAGI RURAL (SC)",
+            "candidate_name": "BASAWARAJ MATTIMUDU",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KALABURAGI UTTAR",
+            "candidate_name": "CHANDRAKANT PATIL",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KALGHATGI",
+            "candidate_name": "SANTOSH LAD",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KAMPLI (ST)",
+            "candidate_name": "T H SURESH BABU",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KANAKAGIRI (SC)",
+            "candidate_name": "SHIVARAJ TANGADAGI",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KANAKAPURA",
+            "candidate_name": "D K SHIVAKUMAR",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KAPU",
+            "candidate_name": "VINAY KUMAR\nSORAKE",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KARKALA",
+            "candidate_name": "V SUNILL KUMAR",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KARWAR",
+            "candidate_name": "SATISH KRISHNA\nSAIL",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KHANAPUR",
+            "candidate_name": "VITHAL SOMANNA HALAGEKAR",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KITTUR",
+            "candidate_name": "BABASAHEB PATIL",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KOLAR",
+            "candidate_name": "KOTHUR.G. MANJUNATHA",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KOLAR GOLD FIELD(SC)",
+            "candidate_name": "ROOPA KALA. M",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KOLLEGAL (SC)",
+            "candidate_name": "A.R.KRISHNAMURTHY",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KOPPAL",
+            "candidate_name": "KARADI MANJULA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KORATAGERE (SC)",
+            "candidate_name": "DR. G. PARAMESHWARA",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KRISHNARAJA",
+            "candidate_name": "T.S. SRIVATHSA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KRISHNARAJANAGARA",
+            "candidate_name": "SA.RA. MAHESH.",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KRISHNARAJPET",
+            "candidate_name": "NARAYANGOWDA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KUDACHI (SC)",
+            "candidate_name": "MAHENDRA. KALLAPPA. TAMMANNAVAR",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KUDLIGI (ST)",
+            "candidate_name": "SRINIVAS N T",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KUMTA",
+            "candidate_name": "SURAJ NAIK SONI",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KUNDAPUR",
+            "candidate_name": "A KIRAN KUMAR KODGI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KUNDGOL",
+            "candidate_name": "M R PATIL",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KUNIGAL",
+            "candidate_name": "DR. H D RANGANATH",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "KUSHTAGI",
+            "candidate_name": "AMAREGOUDA LINGANAGOUDA PATIL BAYYAPUR",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "LINGSUGUR (SC)",
+            "candidate_name": "MANAPPA D VAJJAL",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MADDUR",
+            "candidate_name": "D.C.THAMMANNA",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MADHUGIRI",
+            "candidate_name": "M.V.VEERABHADRAIAH",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MADIKERI",
+            "candidate_name": "APPACHU RANJAN M. P",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MAGADI",
+            "candidate_name": "H. C. BALAKRISHNA",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MAHADEVAPURA",
+            "candidate_name": "MANJULA S",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MAHALAKSHMI LAYOUT",
+            "candidate_name": "K. GOPALAIAH",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MALAVALLI (SC)",
+            "candidate_name": "P.M.NARENDRASWAMY",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MALLESHWARA",
+            "candidate_name": "DR ASHWATH NARAYAN C N",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MALUR",
+            "candidate_name": "HOODI VIJAYAKUMAR",
+            "party_name": "IND",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MANDYA",
+            "candidate_name": "B.R. RAMACHANDRA",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MANGALURU",
+            "candidate_name": "U.T. KHADER\nFAREED",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MANGALURU NORTH",
+            "candidate_name": "BHARATH\nSHETTY. Y.",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MANGALURU SOUTH",
+            "candidate_name": "D.VEDAVYASA\nKAMATH",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MANVI (ST)",
+            "candidate_name": "BV NAYAK",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MASKI (ST)",
+            "candidate_name": "PRATAPGOUDA PATIL",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MAYAKONDA (SC)",
+            "candidate_name": "M. BASAVARAJA NAIK",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MELUKOTE",
+            "candidate_name": "C. S. PUTTARAJU",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MOLAKALMURU (ST)",
+            "candidate_name": "S.THIPPESWAMY",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MOODABIDRI",
+            "candidate_name": "UMANATHA KOTIAN",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MUDDEBIHAL",
+            "candidate_name": "A. S. PATIL (NADAHALLI)",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MUDHOL (SC)",
+            "candidate_name": "GOVIND MAKTHAPPA KARJOL",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MUDIGERE (SC)",
+            "candidate_name": "NAYANA MOTAMMA",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "MULBAGAL (SC)",
+            "candidate_name": "SAMRUDDHI V. MANJUNATH",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "NAGAMANGALA",
+            "candidate_name": "N. CHALUVARAYASWAMY",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "NAGATHAN (SC)",
+            "candidate_name": "DEVANAND FULASING CHAVAN",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "NANJANGUD (SC)",
+            "candidate_name": "DARSHAN DHRUVANARAYANA",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "NARASIMHARAJA",
+            "candidate_name": "TANVEER SAIT",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "NARGUND",
+            "candidate_name": "B R YAVAGAL",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "NAVALGUND",
+            "candidate_name": "N H KONARADDI",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "NELAMANGALA (SC)",
+            "candidate_name": "SHREENIVASAIAH N",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "NIPPANI",
+            "candidate_name": "UTTAM PATIL",
+            "party_name": "NCP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "PADMANABANAGAR",
+            "candidate_name": "R. ASHOKA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "PAVAGADA (SC)",
+            "candidate_name": "K.M.THIMMARAYAPPA",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "PIRIYAPATNA",
+            "candidate_name": "K. MAHADEVA",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "PULAKESHINAGAR",
+            "candidate_name": "AKANDA SRINIVASA MURTHY R",
+            "party_name": "BSP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "PUTTUR",
+            "candidate_name": "ASHOK KUMAR RAI",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "RAIBAG (SC)",
+            "candidate_name": "SHAMBHU KALLOLIKAR",
+            "party_name": "IND",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "RAICHUR",
+            "candidate_name": "DR. SHIVARAJ PATIL",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "RAICHUR RURAL (ST)",
+            "candidate_name": "M KHASHIM NAYAK",
+            "party_name": "KRPP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "RAJAJINAGAR",
+            "candidate_name": "S.SURESH KUMAR",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "RAJARAJESHWARINAGAR",
+            "candidate_name": "MUNIRATHNA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "RAMANAGARA",
+            "candidate_name": "H. A. IQBAL HUSSAIN",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "RAMDURG",
+            "candidate_name": "ASHOK PATTAN",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "RANEBENNUR",
+            "candidate_name": "R SHANKAR",
+            "party_name": "NCP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "RON",
+            "candidate_name": "G S PATIL",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SAGAR",
+            "candidate_name": "H.HALAPPA HARATHALU",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SAKALESHPUR (SC)",
+            "candidate_name": "KUMARSWAMY H K",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SANDUR (ST)",
+            "candidate_name": "E. TUKARAM",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SARVAGNANAGAR",
+            "candidate_name": "KELACHANDRA JOSEPH GEORGE",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SAUNDATTI YELLAMMA",
+            "candidate_name": "VISHWAS VASANT VAIDYA",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SEDAM",
+            "candidate_name": "DR. SHARANPRAKASH PATIL",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SHAHAPUR",
+            "candidate_name": "SHARANABASAPPA DARSHANAPUR",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SHANTINAGAR",
+            "candidate_name": "N. A. HARIS",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SHIGGAON",
+            "candidate_name": "BASAVARAJ BOMMAI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SHIKARIPURA",
+            "candidate_name": "VIJAYENDRA YEDIYURAPPA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SHIRAHATTI (SC)",
+            "candidate_name": "DR.CHANDRU LAMANI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SHIVAJINAGAR",
+            "candidate_name": "RIZWAN ARSHAD",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SHIVAMOGGA",
+            "candidate_name": "CHANNABASAPPA \n(CHENNI)",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SHIVAMOGGA RURAL (SC)",
+            "candidate_name": "SHARADA PURYANAIK",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SHORAPUR (ST)",
+            "candidate_name": "RAJA VENKATAPPA NAIK",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SHRAVANABELAGOLA",
+            "candidate_name": "M.A. GOPALASWAMY",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SIDLAGHATTA",
+            "candidate_name": "SEEKAL RAMACHANDRA GOWDA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SINDAGI",
+            "candidate_name": "BHUSANUR RAMESH BALAPPA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SINDHANUR",
+            "candidate_name": "HAMPANAGOUDA BADARLI",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SIRA",
+            "candidate_name": "T B JAYACHANDRA",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SIRSI",
+            "candidate_name": "VISHWESHWAR HEGDE KAGERI ",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SIRUGUPPA (ST)",
+            "candidate_name": "B. M. NAGARAJA",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SORAB",
+            "candidate_name": "S. KUMARA BANGARAPPA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SRINGERI",
+            "candidate_name": "D.N.JEEVARAJA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SRINIVASAPUR",
+            "candidate_name": "G.K. VENKATASHIVAREDDY",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SRIRANGAPATTANA",
+            "candidate_name": "A.B. RAMESHA BANDISIDDEGOWDA",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "SULLIA (SC)",
+            "candidate_name": "BHAGIRATHI\nMURULYA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "T. NARASIPUR (SC)",
+            "candidate_name": "ASHVIN KUMAR M",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "TARIKERE",
+            "candidate_name": "G.H. SRINIVASA",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "TERDAL",
+            "candidate_name": "SIDDU SAVADI",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "TIPTUR",
+            "candidate_name": "K SHADAKSHARI",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "TIRTHAHALLI",
+            "candidate_name": "ARAGA JNANENDRA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "TUMKUR CITY",
+            "candidate_name": "N GOVINDARAJU",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "TUMKUR RURAL",
+            "candidate_name": "B.SURESH GOWDA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "TURUVEKERE",
+            "candidate_name": "M.T.KRISHNAPPA",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "UDUPI",
+            "candidate_name": "YASHPAL SUVARNA",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "VARUNA",
+            "candidate_name": "SIDDARAMAIAH",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "VIJAYANAGAR",
+            "candidate_name": "M.KRISHNAPPA",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "VIJAYNAGARA",
+            "candidate_name": "SIDDHARTH SINGH",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "VIRAJPET",
+            "candidate_name": "A.S.PONNANNA",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "YADGIR",
+            "candidate_name": "HANAMAGOUDA BEERANKAL",
+            "party_name": "IND",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "YELAHANKA",
+            "candidate_name": "S R VISHWANATH",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "YELBURGA",
+            "candidate_name": "BASAVARAJ RAYAREDDI",
+            "party_name": "CONG",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "YELLAPUARA",
+            "candidate_name": "ARABAIL HEBBAR SHIVARAM",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "YEMKANMARDI (ST)",
+            "candidate_name": "ASTAGI MARUTI MALLAPPA",
+            "party_name": "JDS",
+            "status": "WON"
+        },
+        {
+            "state_name": "KARNATAKA",
+            "city": "YESHWANTHAPURA",
+            "candidate_name": "S.T. SOMASHEKAR",
+            "party_name": "BJP",
+            "status": "WON"
+        }
+    ]
+}
