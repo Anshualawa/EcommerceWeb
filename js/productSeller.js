@@ -1,8 +1,5 @@
 const url = 'https://fakestoreapi.com/products/';
 
-$(document).ready(function () {
-    addCards(url)
-})
 
 
 var app = angular.module('myApp', ['ui.router']);
@@ -26,14 +23,21 @@ function addCards(url) {
         let data = responce;
         console.log(data[1]);
         let combine = '';
-        for (let i = 0; i < data.lenght; i++) {
-            combine += '<div class="card" style="width: 18rem;"> ' +
-                '<img src="" class="card-img-top" alt="...">' +
-                '<div class="card-body"><h5 class="card-title">' + data[i].title +
-                '</h5><p class="card-text">' + data[i].description + '</p><a href="#" class="btn btn-primary">Go somewhere</a></div></div>';
+        for (let i = 0; i < data.length; i++) {
+            combine += '<div class="card m-2" style="width: 18rem;"> ' +
+            '<img src="'+data[i].image+'" class="card-img-top" alt="...">' +
+            '<div class="card-body"><h5 class="card-title">' + data[i].title +
+            '<h3 class="card-subtitle mb-2 text-dark"> Rs. '+ data[i].price+'/-</h3>'+
+            '</h5><p class="card-text">' + data[i].description + '</p>'+
+            '<h6 class="card-subtitle mb-2 text-body-secondary"> <span class="bi bi-star text-success"> '+data[i]["rating"].rate +'</span></h6>'+
+            '<h5 >'+'<a href="#" class="btn btn-primary">Add to Card</a></div></div>';
         }
-        $('#productCards').html('combine');
+        $('#productCards').html(combine);
     });
-
+    
 }
 
+
+$(document).ready(function () {
+    addCards(url)
+})
