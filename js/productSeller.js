@@ -7,8 +7,9 @@ var app = angular.module('myApp', ['ui.router']);
 
 
 $(document).ready(function () {
-    addCards()
-    accountTable()
+    addCards();
+    accountTable();
+    mobileCards();
 })
 
 
@@ -26,10 +27,13 @@ app.config(function ($stateProvider, $urlRouterProvider) {
         name: 'account', url: '/account', templateUrl: './Directives/myAccount.html'
     }
 
-
+    var mobile = {
+        name: 'mobile', url: '/mobile', templateUrl: './Directives/mymobile.html'
+    }
 
     $stateProvider.state(home);
     $stateProvider.state(account);
+    $stateProvider.state(mobile);
     // $urlRouterProvider.state(home)
 });
 
@@ -59,6 +63,27 @@ function addCards() {
 }
 
 
+var url = 'https://dummyjson.com/products';
+function mobileCards() {
+    $.getJSON(url, function (responce) {
+        let data = responce.products;
+        console.log(data);
+        let combinne = '';
+        for (let i = 0; i < data.length; i++) {
+            combinne += '<div class="card m-2 shadow" style="width: 18rem;"> ' +
+                '<img src="' + data[i].images[1] + '" class="card-img-top" alt="...">' +
+                '<div class="card-body"><h5 class="card-title">' + data[i].title +
+                '<h3 class="card-subtitle mb-2 text-dark"> Rs. ' + data[i].price + '/-</h3>' +
+                '</h5><p class="card-text">' + data[i].description + '</p>' +
+                '<h6 class="card-subtitle mb-2 text-body-secondary"> <span class="bi bi-star text-success"> ' + data[i]["rating"].rate + '</span></h6>' +
+                '<h5 >' + '<a href="#" class="btn btn-primary">Add to Card</a></div></div>';
+        }
+        $('#mobileCards').html(combinne);
+    });
+}
+
+
+
 
 
 function accountTable() {
@@ -67,9 +92,9 @@ function accountTable() {
         let combine = '';
         for (let i = 0; i < data.length; i++) {
             combine += '<tr>' +
-                '<td>' + data[i].state_name + '</td>'+
-                '<td>' + data[i].city + '</td>'+
-                '<td>' + data[i].candidate_name + '</td>'+
+                '<td>' + data[i].state_name + '</td>' +
+                '<td>' + data[i].city + '</td>' +
+                '<td>' + data[i].candidate_name + '</td>' +
                 '</tr>';
         }
         $('.tbody').html(combine);
