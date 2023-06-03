@@ -50,7 +50,7 @@ function addCards() {
         let data = responce.product;
         let combinne = '';
         for (let i = 0; i < data.length; i++) {
-            combinne += '<div class="card m-2 shadow" style="width: 18rem;"> ' +
+            combinne += '<div class="card  shadow" > ' +
                 '<img src="' + data[i].image + '" class="card-img-top" alt="...">' +
                 '<div class="card-body"><h5 class="card-title">' + data[i].title +
                 '<h3 class="card-subtitle mb-2 text-dark"> Rs. ' + data[i].price + '/-</h3>' +
